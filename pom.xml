@@ -9,7 +9,7 @@
 	<packaging>jar</packaging>
 
 	<name>TransactionsVault</name>
-	<description></description>
+	<description>Yay! Some description!</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
