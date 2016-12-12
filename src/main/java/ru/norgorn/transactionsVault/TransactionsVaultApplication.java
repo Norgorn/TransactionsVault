@@ -6,9 +6,9 @@ import org.springframework.context.annotation.ComponentScan;
 
 @SpringBootApplication
 @ComponentScan({"ru.norgorn.transactionsVault.conf", "ru.norgorn.transactionsVault.web"})
-public class TrabsactionsVaultApplication {
+public class TransactionsVaultApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(TrabsactionsVaultApplication.class, args);
+		SpringApplication.run(TransactionsVaultApplication.class, args);
 	}
 }
